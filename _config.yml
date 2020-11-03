@@ -1,5 +1,5 @@
 ---
-title: Composers
+title: Utah Inland Port Timeline
 timezone: Europe/Berlin
 collections:
   posts:
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
-baseurl: "/jekyll-timeline"
-url: http://himsel.me
+description: Utah Inland Port Timeline
+baseurl: "/port-timeline"
+url: https://sethmchris.github.io
 color: "#f2f2f2"
