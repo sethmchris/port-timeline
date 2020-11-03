@@ -1,7 +1,6 @@
 ---
 title: Salt Lake Inland Port Market Assessment
 date: 2016-08-01 00:00:00 -0700
-enddate: 1750-07-28 00:00:00 -0700
 ---
 
 ![]({{ site.baseurl }}/assets/img/BlockU_redweb.png)
