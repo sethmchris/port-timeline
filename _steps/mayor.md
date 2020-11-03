@@ -9,4 +9,4 @@ The lawsuit argues that the bill that created the port development is unconstitu
 - Its board is “not elected by and accountable to the residents”
 - It “effectively creates a city or town,” which the Legislature is prohibited from doing
 
-[Source: Salt Lake Tribune](https://www.sltrib.com/news/politics/2019/03/12/salt-lake-city-mayor/ )
+[Source: Salt Lake Tribune](https://www.sltrib.com/news/politics/2019/03/12/salt-lake-city-mayor){:target="_blank"}
