@@ -1,6 +1,6 @@
 ---
 title: Utah Inland Port - Feasibility Analysis
-date: 2017-29-12 00:00:00 -0700
+date: 2017-12-29 00:00:00 -0700
 ---
 
 ![]({{ site.baseurl }}/assets/img/utah-seal.png)
